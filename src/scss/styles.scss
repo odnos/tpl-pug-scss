@@ -1,0 +1,21 @@
+// VARIABLES
+//===================================================
+$main-color: silver;
+$main-color2: #ccc;
+$main-color3: #ccc;
+
+// VENDORS
+//===================================================
+@import "vendor/normalize";
+@import "vendor/pushy";
+@import "vendor/fancybox";
+
+// COMPONENTS
+//===================================================
+// @import "components/section";
+// @import "components/container";
+// @import "components/button";
+
+// CUSTOM STYLES
+//===================================================
+@import "custom";
